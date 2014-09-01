@@ -1,6 +1,6 @@
 {
     "name": "jianphu/split-test",
-    "description": "AB测试（分流测试）框架",
+    "description": "AB测试（分流测试）框架，仅支持中国大陆地区",
     "authors": [
         {
             "name": "Jianfu Li",
