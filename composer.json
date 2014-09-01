@@ -1,0 +1,18 @@
+{
+    "name": "jianphu/split-test",
+    "description": "AB测试（分流测试）框架",
+    "authors": [
+        {
+            "name": "Jianfu Li",
+            "email": "me@ljf.me"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Gram\\SplitTest": "src/"
+        }
+    }
+}
