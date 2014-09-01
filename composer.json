@@ -7,6 +7,8 @@
             "email": "me@ljf.me"
         }
     ],
+    "type": "library",
+    "license": "MIT",
     "require": {
         "php": ">=5.3.0"
     },
