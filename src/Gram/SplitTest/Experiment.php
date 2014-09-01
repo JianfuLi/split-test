@@ -2,7 +2,6 @@
 namespace Gram\SplitTest;
 
 use Gram\SplitTest\Filters\IFilter;
-use Gram\SplitTest\Utilities\HashCode;
 
 /**
  * Class Experiment
